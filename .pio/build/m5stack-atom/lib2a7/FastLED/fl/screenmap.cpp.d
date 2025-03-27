@@ -1,0 +1,28 @@
+.pio/build/m5stack-atom/lib2a7/FastLED/fl/screenmap.cpp.o: \
+ .pio/libdeps/m5stack-atom/FastLED/src/fl/screenmap.cpp \
+ .pio/libdeps/m5stack-atom/FastLED/src/fl/screenmap.h \
+ .pio/libdeps/m5stack-atom/FastLED/src/fl/force_inline.h \
+ .pio/libdeps/m5stack-atom/FastLED/src/fl/lut.h \
+ .pio/libdeps/m5stack-atom/FastLED/src/fl/ptr.h \
+ .pio/libdeps/m5stack-atom/FastLED/src/fl/namespace.h \
+ .pio/libdeps/m5stack-atom/FastLED/src/fl/scoped_ptr.h \
+ .pio/libdeps/m5stack-atom/FastLED/src/fl/template_magic.h \
+ .pio/libdeps/m5stack-atom/FastLED/src/fl/allocator.h \
+ .pio/libdeps/m5stack-atom/FastLED/src/fl/map.h \
+ .pio/libdeps/m5stack-atom/FastLED/src/fl/vector.h \
+ .pio/libdeps/m5stack-atom/FastLED/src/fl/inplacenew.h \
+ .pio/libdeps/m5stack-atom/FastLED/src/fl/insert_result.h \
+ .pio/libdeps/m5stack-atom/FastLED/src/fl/pair.h \
+ .pio/libdeps/m5stack-atom/FastLED/src/fl/assert.h \
+ .pio/libdeps/m5stack-atom/FastLED/src/fl/warn.h \
+ .pio/libdeps/m5stack-atom/FastLED/src/fl/dbg.h \
+ .pio/libdeps/m5stack-atom/FastLED/src/fl/strstream.h \
+ .pio/libdeps/m5stack-atom/FastLED/src/crgb.h \
+ .pio/libdeps/m5stack-atom/FastLED/src/chsv.h \
+ .pio/libdeps/m5stack-atom/FastLED/src/color.h \
+ .pio/libdeps/m5stack-atom/FastLED/src/lib8tion/types.h \
+ .pio/libdeps/m5stack-atom/FastLED/src/fl/str.h \
+ .pio/libdeps/m5stack-atom/FastLED/src/fl/math_macros.h \
+ .pio/libdeps/m5stack-atom/FastLED/src/fl/json.h \
+ .pio/libdeps/m5stack-atom/FastLED/src/third_party/arduinojson/json.h \
+ .pio/libdeps/m5stack-atom/FastLED/src/third_party/arduinojson/json.hpp
