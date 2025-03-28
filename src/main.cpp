@@ -59,6 +59,9 @@ void loop() {
     stepper1.doSteps(32); // move a bit more to the home position to make sure the optical fork is blocked (tolerance)
     delay(1000);
 
+    stepper1.doSteps(-81000); // move the plate out through the feeding tray (to be changed - use optifork)
+    delay(10000); // wait for 10 seconds
+
     digitalWrite(en_pin, HIGH); // disable driver and release tourqe on the motor
     while (1){} // wait forever
   }
